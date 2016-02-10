@@ -1,0 +1,9 @@
+{
+  "ambientDependencies": {
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#1c56e368e17bb28ca57577250624ca5bd561aa81",
+    "tv4": "github:DefinitelyTyped/DefinitelyTyped/tv4/tv4.d.ts#48f20e97bfaf70fc1a9537b38aed98e9749be0ae"
+  },
+  "dependencies": {
+    "moment": "github:typings/typed-moment#a4075cd50e63efbedd850f654594f293ab81a385"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "start-date": "2016-02-01",
+  "end-date": "2016-02-02",
+  "resolution": "24 hours",
+  "limits": [-10, 35],
+  "template": {
+    "v": "{value}",
+    "t": "{timestamp}",
+    "additionalField": "foo"
+  }
+}

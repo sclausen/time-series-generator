@@ -1,0 +1,14 @@
+{
+  "name": "random-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "^2.11.1"
+  },
+  "dependencies": {
+    "tv4": "^1.2.7"
+  }
+}
